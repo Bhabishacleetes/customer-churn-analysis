@@ -38,7 +38,6 @@ Churn Rate by Tenure Group
 Churn Rate by Gender and Senior Citizen
 
 Churn Rate by Monthly Charges
-![Dashboard ](dashboard.png)
 
 
 Insights:
